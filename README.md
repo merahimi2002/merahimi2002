@@ -23,3 +23,5 @@ A proactive and passionate web developer with a focus on Front-end development, 
 You can check out some of my professional web design projects here:  
 <a href="https://azaranweb.net/web-design/examples" target="_blank">🌐 View My Work</a>
 </p>
+## Activity Overview
+![Ebi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=merahimi2002&show_icons=true&theme=tokyonight)
