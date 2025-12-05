@@ -1,5 +1,7 @@
 <!-- ==================== Header ==================== -->
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=merahimi2002)
+![Profile View](https://visitor-badge.laobi.icu/badge?page_id=merahimi2002&label=Profile%20View)
+![Ebi Merahimi](https://img.shields.io/badge/Ebi%20Merahimi-Next.js%20|%20React%20|%20TS-blueviolet?style=for-the-badge&logo=github)
+
 <h1 align="center">Hi, I'm Ebi (Merahimi)</h1>
 <h2 align="center">Front-end Developer</h2>
 <p align="center">Next.js, React, and TypeScript</p>
