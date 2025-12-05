@@ -2,7 +2,7 @@
 ![Profile View](https://visitor-badge.laobi.icu/badge?page_id=merahimi2002&label=Profile%20View)
 
 <h1 align="center">Hi, I'm Ebi (Merahimi)</h1>
-<h2 align="center">Front-end Developer</h2>
+<h3 align="center">Front-end Developer</h3>
 <p align="center">Next.js, React, and TypeScript</p>
 
 <!-- ==================== Languages and Tools ==================== -->
