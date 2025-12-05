@@ -13,15 +13,13 @@
 </p>
 
 <!-- ==================== About Me ==================== -->
-<h4 align="center">👨‍💻 About Me</h4>
-<p align="center">
+<h4>👨‍💻 About Me</h4>
+<p>
 A proactive and passionate web developer with a focus on Front-end development, possessing approximately 5 years of experience in designing and building various types of websites, including e-commerce platforms, corporate portals, blogs, and standard websites. Skilled in utilizing the latest modern web technologies and best practices to deliver clean, efficient, and user-friendly web applications.
 </p>
 <!-- ==================== Featured Projects ==================== -->
-<h4 align="center">🎯. Featured Projects</h4>
-<p align="center"> 
+<h4>🎯. Featured Projects</h4>
+<p> 
 You can check out some of my professional web design projects here:  
 <a href="https://azaranweb.net/web-design/examples" target="_blank">🌐 View My Work</a>
 </p>
-## Activity Overview
-![Ebi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=merahimi2002&show_icons=true&theme=tokyonight)
